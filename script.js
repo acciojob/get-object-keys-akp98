@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Step 1: Create the student object with a name property
 const student = {
   name: "John Doe"
@@ -6,7 +5,7 @@ const student = {
 
 // Step 2: Write the getKeys() function
 function getKeys(obj) {
-  return Object.keys(obj);  // Use Object.keys() to get an array of keys
+  return Object.keys(obj);  // Use Object.keys() to get an array of keys from the object
 }
 
 // Step 3: Test the function
